@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haidaraligd-pixel.github.io/ali-haidar-portfolio/sitemap.xml
